@@ -1,0 +1,130 @@
+
+body {
+      background: url("Background.jpg") no-repeat center center fixed; 
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+}
+.background{
+background: url("Background.jpg") no-repeat center center;
+background-repeat: no-repeat;
+background-size: 100% 100%;
+}
+
+
+*{
+margin: 0;
+padding: 0;
+/*background: #1D4D80;*/
+/*background-image: url("E:/Project 1/Background.jpg");*/
+font-family: 'Poppins', sans-serif;}
+
+img{
+align-items: center;
+margin: 170px;
+height: 200px;
+width: auto;
+}
+
+
+
+h1,p{
+	text-align: center;
+	background-color: transparent;
+	font-weight: bolder;
+}
+.form1{
+	width: 300px;
+	height: 350px;
+	border-radius: 10px;
+	right: 300px;
+	top: 120px;
+	position: absolute;
+	box-shadow: 2px 2px lightblue;
+	background-color: rgba(255, 255, 255, .3);
+
+}
+.form{
+	background-color: transparent;
+	position: absolute;
+	border: none;
+	left: 10px;
+	width: 280px;
+	height: 330px;
+	top: 20px;
+	color: white;
+}
+form{
+	background-color: transparent;
+}
+.form_class{
+	background-color: transparent;
+}
+.form-group
+{
+	background-color: transparent;
+}
+
+.form-group input{
+	margin: 10px;
+	border-radius: 5px;
+	width: 90%;
+	height: 30px;
+	border: 1px solid white;
+	color: ghostwhite;
+	font-weight: bolder;
+}
+
+.form-check{
+	background-color: transparent;
+	margin: 10px;
+	color: white;
+	border-radius: 10px;
+}
+.form-control{
+
+background-color: transparent;
+}
+.label1{
+	position: relative;
+	left: 10px;
+	font-size: 13px;
+}
+.form-check-label .label1{
+	background-color: transparent;
+	font-size: 13px;
+}
+.form-check-label
+{
+	background-color: transparent;
+	font-size: 13px;
+
+}
+a{
+	background-color: transparent;
+	color: white;
+	text-decoration: none;
+}
+input::placeholder
+{
+	background-color: transparent;
+	color: white;
+	padding: 10px;
+}
+button 
+{
+	margin: 10px;
+	border-radius: 5px;
+	width: 92%;
+	border: none;
+	height: 35px;
+	color: white;
+	font-weight: bold;
+	background-color: #DB6830;
+}
+
+
+.pwd_login{
+
+}
